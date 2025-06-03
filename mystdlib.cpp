@@ -212,9 +212,3 @@ int primeNum(int list[], int size){
 	return count;
 }
 
-
-//char* split(char *string, char token){
-//	int len = strlen(string);
-//	char *split_list = (char *) malloc(size*sizeof(char));
-//	for 
-//}
